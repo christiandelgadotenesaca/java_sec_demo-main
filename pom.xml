@@ -84,7 +84,6 @@
                     <!-- Don't use Nexus Analyzer -->
                     <centralAnalyzerEnabled>false</centralAnalyzerEnabled>
                     <failOnError>false</failOnError>
-					<skipSystemScope>true</skipSystemScope>
                 </configuration>
             </plugin>
             <!-- test coverage -->
